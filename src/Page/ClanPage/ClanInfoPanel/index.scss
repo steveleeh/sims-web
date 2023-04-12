@@ -1,0 +1,9 @@
+.clan_info_panel {
+  border: 1px solid var(--semi-color-border);
+  border-width: 1px;
+  width: 240px;
+  height: calc(100vh - 154px);
+  padding: 24px;
+  background-color: var(--semi-color-bg-1);
+  box-shadow: var(--semi-shadow-elevated);
+}

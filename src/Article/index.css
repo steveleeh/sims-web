@@ -1,0 +1,8 @@
+.article-wrapper {
+  box-sizing: border-box;
+  width: 100%;
+  left: 0;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 24px;
+}
